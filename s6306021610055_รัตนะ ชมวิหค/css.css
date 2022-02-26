@@ -1,0 +1,44 @@
+body {
+	font-family: "Lucida Console", "sans-serif";
+	font-size:14px;
+	background-image:url("813296022908d0d4adaa55a4eaf5207a.gif");
+	text-align:center;
+	background-size:cover;
+	margin:auto;
+	width:100%;
+	overflow-y: auto;
+}
+body .con{
+	width:100%;
+	height:800px;
+	color:white;
+}
+body .con img{
+	height:400px;
+}
+a{
+	color:#FFF;
+	text-decoration:none;
+	font-size: 20px;
+}
+table {
+	margin-top: 200px;
+	text-align:center;
+	margin:auto;
+	color:#FFF;
+}
+th{
+	border: 1px solid #FFF;
+}
+table .height100{
+	height:100px;
+}
+table tr .width1{
+	width:200px;
+}
+table tr .width2{
+	width:500px;
+}
+.aling{
+	text-align:left;
+}
